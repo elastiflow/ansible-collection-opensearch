@@ -1,0 +1,15 @@
+namespace: elastiflow
+name: collectors
+version: 3.0.0
+readme: README.md
+authors:
+  - OpenSearch Project
+description: Roles for deploying opensearch and related components
+license_file: 'LICENSE.txt'
+tags: [opensearch]
+
+dependencies: {}
+repository: https://github.com/opensearch-project/ansible-playbook
+documentation: https://opensearch.org/docs/latest/install-and-configure/install-opensearch/ansible
+homepage: https://opensearch.org/docs/latest/install-and-configure/install-opensearch/ansible
+issues: https://github.com/opensearch-project/ansible-playbook/issues
